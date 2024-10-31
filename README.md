@@ -1,3 +1,5 @@
+:warning: NOT MAINTAINED
+
 # An attempt to convert the lsbasi code to Rust
 
 ["Let's Build A Simple Interpreter"](https://ruslanspivak.com/lsbasi-part1/), written by Ruslan Spivak, is an excellent series of articles on how compilers and interpreters work.
